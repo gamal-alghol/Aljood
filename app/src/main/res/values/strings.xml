@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Aljood optical</string>
+    <string name="Log_in">تسجيل الدخول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="Log_in_words">" يرجى تسجيل الدخول إلى حسابك."</string>
+    <string name="loading">جاري تسجيل الدخول...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request">طلب واستفسار</string>
+    <string name="catygory">الفئات</string>
+    <string name="duration">المدة</string>
+    <string name="medical">طبي</string>
+    <string name="cosmetic">تجميلي</string>
+    <string name="monthly">شهري</string>
+    <string name="yearly">سنوي</string>
+
+    <string name="search">بحث</string>
+
+
+    <string name="transparent_lences">شفاف</string>
+    <string name="grey">رمادي</string>
+    <string name="brouwn">بني</string>
+    <string name="blue">ازرق</string>
+    <string name="green_lences">اخضر</string>
+    <string name="drawer_open">مفتوح</string>
+    <string name="drawer_close">مغلق</string>
+    <string name="account">الحساب</string>
+    <string name="about_us">من نحن</string>
+    <string name="contact_us">راسلنا</string>
+    <string name="pranch_us">فروعنا</string>
+    <string name="aboutus_about">شركة متخصصة في مجال البصريات الطبية مرخصة من وزارة الصحة الفلسطينية ووزارة
+ الاقتصاد , تزود مراكز البصريات وعيادات أطباء العيون بأحدث الأجهزة والتقنيات الحديثة</string>
+    <string name="features">الخصائص :</string>
+    <string name="aboutus_point1">تزويد مراكز البصريات (أجهزة طبية ,معينات بصرية ,اطارات طبية وشمسية,عدسات لاصقة طبية وتجميلية ,محاليل بأنواعها)</string>
+    <string name="aboutus_point2">"  تقديم خدمة الفحص الطبي للنظر , وتجهيز النظارات الطبية والشمسية  والعدسات اللاصقة الطبية والتجميلية"</string>
+    <string name="aboutus_point3">"لدينا 5 فروع للشركة  موزعين على كافة محافظات قطاع غزة "</string>
+    <string name="ethics">قيمنا :</string>
+    <string name="aboutus_point4">الفهم العميق لزبائننا</string>
+    <string name="aboutus_point5">الالتزام بالتميز</string>
+    <string name="aboutus_point6">الحفاظ على أفضل أداء ممكن</string>
+    <string name="aboutus_point7">المصداقية العالية</string>
+    <string name="just_now">الان</string>
+    <string name="minutes_ago"> دقيقة</string>
+    <string name="hours_ago"> ساعات</string>
+    <string name="days_ago">أيام مضت</string>
+    <string name="weeks_ago">أسابيع مضت</string>
+    <string name="brine">المحاليل</string>
+    <string name="logout">تسجيل خروج</string>
+
+    <string-array name="signal">
+<item>+</item>
+        <item>-</item>
+
+    </string-array>
+</resources>
